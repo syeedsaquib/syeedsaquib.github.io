@@ -355,6 +355,11 @@ iframe{
 */
 
 @media (min-width:320px) and (max-width:580px){
+    ol, ul {
+        padding-left: 1rem;
+    }
+
+
 
     #skill img{
         height: 35px;
