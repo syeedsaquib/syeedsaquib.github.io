@@ -67,9 +67,10 @@ nav ul img{
 
 main div img{
     display: flex;
-    height: 240px;
+    height: 260px;
     margin: 0 auto;
     margin-top: 80px;
+    border-radius:25px;
 }
 main div h3{
     background: linear-gradient(to right, #0000ff,rgb(255, 255, 255),#ff0000); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
